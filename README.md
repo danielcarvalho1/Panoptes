@@ -1,8 +1,12 @@
 # Panoptes
 
+![logo](Panoptes_logo.png)
+
 Panoptes is a small, reproducible research prototype for sequential survey strategy under uncertainty. It models an archaeological surveyor or drone exploring a 2D landscape with noisy observations and a finite movement and sampling budget.
 
 The project is designed as a portfolio foundation for research at the intersection of archaeological prospection, spatial modelling, and reinforcement learning. Its first experiment is intentionally synthetic: the simulator knows the hidden archaeological anomaly field, while the agent only receives noisy local sensor readings and an evolving uncertainty map.
+
+Panoptes is live! You can use it at https://panoptes-arch.streamlit.app/
 
 ## Research question
 
